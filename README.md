@@ -1,5 +1,5 @@
 <h1 align="center">
- <p>Hi there👋, Welcome to My Coding Playground.</p>
+ <p>Hey!👋, Nice to see you..</p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
 </h1>
 
@@ -10,15 +10,19 @@
 
 
 <h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> ML & Data Science Enthusiast | Research Enthusiast | Python | Django & REST API | 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> I'm a AI Engineer | Mentor | YouTuber @rootsofintelligence 
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<div align="left">
-    - 🌱 I’m currently learning **Machine Learning & Data Science, Deep Learning & Generative AI**<br/>
-    - 🚀 I’m currently working on **Dengue outbreak prediction for Bangladesh.**<br/>
-    - 🩺 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
-    - 🛰️ How to reach me **rasel.sarker6933@gmail.com**<br/>
-</div>
+
+### I have technical experience and interest in:
+* Deep Learning
+* Machine Learning
+* Computer vision 
+* Natural Language Processing
+* MLOps
+* Generative AI 
+* Microcontrollers 
+* Robotics
 
 
 <br><br>
