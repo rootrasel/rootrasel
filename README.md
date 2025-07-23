@@ -33,11 +33,11 @@
 
 <p align="center">
   <a href="mailto:rasel.sarker6933@gmail.com"><img src="https://img.shields.io/badge/Email-rasel.sarker6933@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/raselsarker69"><img src="https://img.shields.io/badge/GitHub-%40Raselsarker-lightgrey?style=flat-square&logo=github"></a>
+  <a href="https://github.com/rootrasel"><img src="https://img.shields.io/badge/GitHub-%40Raselsarker-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/rasel-sarker-405160227/"><img src="https://img.shields.io/badge/LinkedIn-Rasel%20Sarker-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.facebook.com/mdrasel.sarker.7773631"><img src="https://img.shields.io/badge/Facebook-%40Raselsarker-blue?style=flat-square&logo=facebook"></a>
   <a href="https://www.kaggle.com/mdraselsarker"><img src="https://img.shields.io/badge/Kaggle-%40Raselsarker-blue?style=flat-square&logo=kaggle"></a>
-  <a href="https://www.youtube.com/@raselsarker69"><img src="https://img.shields.io/badge/YouTube-Rasel%20Sarker-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.youtube.com/@rootsofintelligence"><img src="https://img.shields.io/badge/YouTube-Rasel%20Sarker-red?style=flat-square&logo=youtube"></a>
   <a href="https://www.facebook.com/groups/832585175685301"><img src="https://img.shields.io/badge/Facebook%20Group-Rasel%20Sarker%20Group-blue?style=flat-square&logo=facebook"></a>
   <br>
   <img src="https://img.shields.io/badge/Phone-%2B8801581528651-green?style=flat-square&logo=whatsapp">
@@ -83,9 +83,9 @@
 <div align="left">
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> Github Stats 🏅
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact&theme=dark" alt="raselsarker69" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en&theme=dark" alt="raselsarker69" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&theme=dark" alt="raselsarker69" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact&theme=dark" alt="rootrasel" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en&theme=dark" alt="rootrasel" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&theme=dark" alt="rootrasel" /></p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
