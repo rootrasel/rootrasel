@@ -1,28 +1,52 @@
 <h1 align="center">
- <p>Hey!👋, Nice to see you..</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
+AI/ML Engineer | Accelerating Computational Drug Discovery
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker69&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker69" /> </p>
+<p align="center">
+AI/ML Engineer | Computational Cheminformatics | AI for Drug Discovery | QSAR Modeling • Molecular Property Prediction • Deep Learning
+</b><br>
+<a href="https://portfolio-tau-sepia-u0hnsm4qtt.vercel.app/">Website</a> •
+<a href="https://www.linkedin.com/in/md-rasel-sarker-405160227/">LinkedIn</a> •
+<a href="https://www.youtube.com/@rootsofintelligence">YouTube</a>
+</p>
 
- 
-<h1 style="font-size: 3rem; color: #0e75b6; text-align: center;">💫 About Me:</h1>
+---
+
+## About Me
+
+I am an **AI/ML Engineer** with research interests in computational cheminformatics, AI-driven drug discovery, and computational biology. My work focuses on applying machine learning and deep learning to molecular data to understand chemical properties, identify promising drug candidates, and address challenges in drug discovery.
+
+I develop computational workflows using Python and scientific machine learning tools to transform molecular structures and chemical datasets into meaningful insights. My interests include molecular property prediction, QSAR modeling, molecular representations, chemical fingerprinting, and deep learning for drug discovery.
+
+I am particularly interested in combining cheminformatics, graph-based learning, and AI-driven approaches to accelerate early-stage drug discovery and improve our understanding of molecular interactions. I also have research interests in cancer genomics, transcriptomics, and multi-omics data integration, particularly their applications in understanding disease mechanisms and identifying potential therapeutic targets.
+
+My long-term goal is to contribute to the development of reliable, reproducible, and open-source AI solutions that bridge computational chemistry, machine learning, and biomedical research.
 
 
-<h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> I'm a AI Engineer | Mentor | YouTuber @rootsofintelligence 
-</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI 
-* Microcontrollers 
-* Robotics
+
+### Technical Expertise
+---
+- **Core AI/ML:** Machine Learning, Deep Learning, Generative AI, Predictive Modeling
+- **Computer Vision & NLP:** Image Classification, Object Detection, Medical Image Analysis, Natural Language Processing (NLP)
+- **Computational Cheminformatics:** RDKit, Molecular Fingerprinting, Molecular Representation, QSAR Modeling, Molecular Property Prediction
+- **AI Frameworks & Scientific Computing:** PyTorch, TensorFlow, PyTorch Geometric, Scikit-learn, NumPy, Pandas
+- **Computational Infrastructure:** MLOps, Model Deployment, API Development, High-Performance Computing (HPC)
+
+
+### Research Interests
+---
+- **Computational Drug Discovery:** AI-Driven Drug Discovery, Molecular Property Prediction, QSAR Modeling, Molecular Representation Learning
+- **Cancer Genomics:** Cancer Biology, Tumour Heterogeneity, Biomarker Discovery, Therapeutic Target Identification
+- **Transcriptomics:** Bulk RNA-seq, Single-Cell RNA-seq, Spatial Transcriptomics
+- **Multi-Omics Integration:** Integrative Analysis of Genomic, Transcriptomic, and Proteomic Data
+- **Applied AI in Biology:** Machine Learning for Biomedical Research, Computational Biology, Reproducible Cheminformatics and Bioinformatics, Open Science
+
+<p align="center">
+
+*"Advancing drug discovery and biomedical research through AI, computational cheminformatics, and open science."*
+
+</p>
 
 
 <br><br>
